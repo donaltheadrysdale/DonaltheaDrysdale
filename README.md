@@ -43,13 +43,6 @@ An interactive analytics project exploring job skills, occupational requirements
 
 **Planned tools:** Python, SQL, MySQL, Power BI
 
-### Healthcare Statistical Analysis
-An analytical project using clinical data to explore distributions, validate data quality, and conduct hypothesis testing.
-
-**Tools:** Statistical analysis and data cleaning
-
-*More projects will be added as they are completed and documented.*
-
 ## What I'm Learning
 
 - Building reproducible, end-to-end data projects
