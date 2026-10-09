@@ -1,36 +1,67 @@
-# Hi, I'm Donalthea!
+# Hi, I'm Donalthea Drysdale!
 
-### Aspiring Data Analyst | Future Data Scientist
+### Aspiring Data Analyst | Aspiring Data Scientist
 
-I'm an aspiring data professional interested in using data to uncover patterns, solve business problems, and support data-driven decisions.
+I'm an aspiring data professional interested in using data to uncover patterns, solve problems, and support data-driven decision-making.
 
-I'm building projects across analytics and data science to develop my skills in data cleaning, statistical analysis, SQL, Python, data visualization, and machine learning.
-
-## What I'm Working On
-
-- **Data Analytics:** Exploring datasets, identifying trends, and translating findings into actionable insights.
-- **Business Intelligence:** Building interactive dashboards and reports with Power BI and Tableau.
-- **Data Science:** Developing my foundation in statistics, predictive modeling, and machine learning.
-- **Career Skills Intelligence:** Building a dashboard to explore in-demand skills, salaries, and requirements across occupations.
+I enjoy exploring datasets, working with SQL and Python, building interactive dashboards, and translating analytical findings into meaningful insights. I'm expanding my portfolio across industries to explore different applications of data analytics and data science.
 
 ## Technical Skills
 
-- **Languages:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, exploratory data analysis, statistical analysis
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Tools:** Git, GitHub, Jupyter Notebook, MySQL
+**Languages & Querying**
+- Python
+- SQL (MySQL)
+- R
+
+**Data Analysis**
+- Pandas
+- Excel
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Cleaning
+
+**Data Visualization & Business Intelligence**
+- Power BI
+- Tableau
+
+**Machine Learning**
+- Scikit-learn
+- Predictive Modeling
+- Model Evaluation
+
+**Tools & Workflow**
+- Git
+- GitHub
+- Jupyter Notebook
 
 ## Featured Projects
 
-*Projects are being developed and documented. Check back as I publish completed work.*
+### Career Skills Intelligence Dashboard
+*In development*
 
-## Current Goals
+An interactive analytics project exploring job skills, occupational requirements, and salary trends across careers.
 
-- Build practical, end-to-end analytics projects.
-- Strengthen my SQL, Python, and statistical analysis skills.
-- Develop interactive dashboards that communicate meaningful insights.
-- Expand into predictive modeling and applied data science.
+**Planned tools:** Python, SQL, MySQL, Power BI
+
+### Healthcare Statistical Analysis
+An analytical project using clinical data to explore distributions, validate data quality, and conduct hypothesis testing.
+
+**Tools:** Statistical analysis and data cleaning
+
+*More projects will be added as they are completed and documented.*
+
+## What I'm Learning
+
+- Building reproducible, end-to-end data projects
+- Writing more advanced SQL queries
+- Applying statistical methods to real-world questions
+- Developing predictive models and evaluating their performance
+- Communicating findings through effective visualizations and dashboards
+
+## My Approach
+
+I believe good data analysis goes beyond producing charts and numbers. It's about asking the right questions, validating the evidence, understanding limitations, and communicating findings that help people make better decisions.
 
 ---
 
-I'm always looking for opportunities to learn, build, and solve interesting problems with data.
+**Thanks for visiting my profile!**
